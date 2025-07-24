@@ -6,7 +6,7 @@ Since all communication devices run automatically without a required interaction
 
 A basic understanding of (C/C++) programming is assumed to successfully complete this tutorial workshop. 
 
-> ![CAUTION]
+> [!CAUTION]
 > The code used in this tutorial workshop runs on REAL hardware and performs REAL RF transmissions! 
 > All users must be aware of their actions and the appropriate legal requirements such as usable frequency bands, tx power, duty cycle restrictions, etc. 
 
@@ -35,7 +35,6 @@ A basic understanding of (C/C++) programming is assumed to successfully complete
 + Test the entire setup by flashing the sample solutions to more Heltec v3 boards.
 + Place the level devices for Level 2 and 2a at appropriate locations outside the actual tutorial room (if possible and wished). All other devices could (but do not need to) be in the same room. 
 
----
 ---
 <br>
 
@@ -117,7 +116,6 @@ Secondly, the passphrase is 'encrypted' with the personalized key from Level 3. 
 
 
 
----
 ---
 
 ## Sync Word Problems (!)?
