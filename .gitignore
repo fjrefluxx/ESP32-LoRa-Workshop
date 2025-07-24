@@ -1,0 +1,5 @@
+*.DS_Store
+extensions.json
+settings.json
+README
+c_cpp_properties.json
